@@ -1,0 +1,7 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"SW1, SW11, SW12, SW13, SW14, SW16, SW17, SW18, SW19, SW21, SW22, SW23, SW24, SW26, SW27, SW28, SW29, SW6, SW7, SW8, SW9",SW_Hole_1u,21,SW_Push,
+"SW10, SW15, SW20, SW5",SW_Hole_1.25u,4,SW_Push,
+SW2,SW_Hole_1.5u,1,SW_Push,
+SW25,SW_Hole_2.25u,1,SW_Push,
+SW3,SW_Hole_1.75u,1,SW_Push,
+SW4,SW_Hole_2u,1,SW_Push,
